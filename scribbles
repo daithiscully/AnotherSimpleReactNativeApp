@@ -1,0 +1,17 @@
+Original component:
+
+
+<View style={styles.container}>
+  <Text style={styles.welcome}>
+    Welcome to React Native David!{'\n'}
+    The variable is {variable()}{'\n'}
+    The variable2 is {variable2()}{'\n'}
+  </Text>
+  <Text style={styles.instructions}>
+    To get started, edit index.android.js
+  </Text>
+  <Text style={styles.instructions}>
+    Double tap R on your keyboard to reload,{'\n'}
+    Shake or press menu button for dev menu
+  </Text>
+</View>
